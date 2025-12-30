@@ -6,6 +6,7 @@
 
 [![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://f1stocks.netlify.app/)
 
+> Theme - mashup
 
 # Team 
 >Yadav
@@ -14,7 +15,7 @@
 >Clark
 
 # Mini description
-> Theme - mashup
+
 > Hackathon project developed during the SFU CSSS FallHacks 2025. Following the theme mashup the project combines F1 and stocks to create a webpage displaying live stock data for each F1 one teams and their sponsors.
 
 
