@@ -18,7 +18,11 @@
 
 > Hackathon project developed during the SFU CSSS FallHacks 2025. Following the theme mashup the project combines F1 and stocks to create a webpage displaying live stock data for each F1 one teams and their sponsors.
 
-
-
+## Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,css,html" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=github,netlify,figma" />
+</p
 
 
